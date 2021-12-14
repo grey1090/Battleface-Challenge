@@ -1,5 +1,10 @@
 # Battleface-Challenge
 
+**Routes Used**
+ - web.php line 17(displays the form)
+ - api.php line 23 (displays qoute) used in the js on form.blade line 124.
+ 
+
 
 
 **Docker Instance:**
