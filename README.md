@@ -12,9 +12,9 @@
   Steps:
   1. cd into BattleFace_Challange dir
   2. run docker-compose ps to check running containers 
-  3. run docker exec -it {container id} bash to run the workspace for all php artisan commands
-  4. run docker-compose up to spin up containers should have workspace and mysql.
-  5. db connections are all in the .env file 
+  3. run docker-compose up to spin up containers should have workspace and mysql.
+  4. run docker exec -it {container id} bash to run the workspace for all php artisan commands
+  6. db connections are all in the .env file 
   
   
   
