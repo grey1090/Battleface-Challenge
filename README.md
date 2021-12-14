@@ -21,7 +21,7 @@
  
  The web.php routses has one GET method that creates a user thatt will generate an auth token. password is not needed becuase im using email to identify as you can 
  in the AuthController.php lines 16-20. the idea behind this is that we create a token once the /quotes enpoint is loaded as seen in the vanilla js. from there the 
- the pai headeers are passed into a payload so that we can we fetch the POST of the actual qoute which will be displayed in json format on top of the form.
+ the api headers are passed into a payload so that we can we fetch the POST of the actual qoute which will be displayed in json format on top of the form.
  
 
    
